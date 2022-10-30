@@ -1,0 +1,9 @@
+Studentid,Register,Semester,courseid,grade,cgpa
+15,Registered,First,CS506,B,8
+15,Registered,First,CS509,A,10
+15,Registered,First,CS527,A-,9
+15,Registered,First,CS526,B-,7
+13,Registered,First,CS506,A,10
+13,Registered,First,CS509,B,8
+13,Registered,First,CS527,C,6
+13,Registered,First,CS526,D,5
